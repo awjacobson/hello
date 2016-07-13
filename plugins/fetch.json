@@ -1,0 +1,21 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.marketo.plugin": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/Marketo/PhoneGapPlugin.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {
+            "APPLICATION_SECRET_KEY": "Q1RqRUJzYzQ1VzNRSE5hbXJwRlhxSklu"
+        }
+    }
+}
